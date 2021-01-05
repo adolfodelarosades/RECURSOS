@@ -1,10 +1,6 @@
 # RECURSOS
 Lista de Recursos para el uso dentro del Desarrollo Web, Mobile o BackeEnd
 
-## Recursos JavaScript
-
-* [SweetAlert2](https://sweetalert2.github.io/): Un remplazo *Hermoso*, *Responsive*, *Personalizable*, *Accesible* que reemplaza los PopUp Standard de JavaScript.
-
 ## APIS Públicos
 
 * [IMBD](https://www.imdb.com/): IMDb: calificaciones, reseñas y dónde ver las mejores películas ...
@@ -14,6 +10,15 @@ Lista de Recursos para el uso dentro del Desarrollo Web, Mobile o BackeEnd
 * [Swagger Petstore](https://petstore.swagger.io/): Este es un servidor de muestra del servidor Petstore. Puede encontrar más información sobre Swagger en http://swagger.io o en irc.freenode.net, #swagger. Para esta muestra, puede usar la clave especial `special-key` para probar los filtros de autorización. 
 
 
+
+## Recursos JavaScript
+
+* [SweetAlert2](https://sweetalert2.github.io/): Un remplazo *Hermoso*, *Responsive*, *Personalizable*, *Accesible* que reemplaza los PopUp Standard de JavaScript.
+
+
+## Recursos BootStrap
+
+* [Bootsnipp](https://bootsnipp.com/): Elementos de diseño, playground y fragmentos de código para Bootstrap HTML/CSS/JS 
 
 ## Servicios de Almacenamiento
 
