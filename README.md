@@ -21,6 +21,13 @@ Lista de Recursos para el uso dentro del Desarrollo Web, Mobile o BackeEnd
 
 * [Gravatar](https://es.gravatar.com/): Gravatar es un servicio gratuito para propietarios, desarrolladores y usuarios de sitios. Un Gravatar es un Avatar reconocido a nivel mundial. Usted carga una imagen y crea su perfil público solo una vez, y luego, cuando participa en cualquier sitio habilitado para Gravatar, su imagen de Gravatar y su perfil público lo seguirán automáticamente allí.
 
+
+## BD SQL y NoSQL
+
+* [H2](https://www.h2database.com/html/main.html): Bienvenido a H2, la base de datos SQL de Java. Las principales características de H2 son: API JDBC de código abierto muy rápido - Modos integrados y de servidor; bases de datos en memoria -
+Aplicación de consola basada en navegador - Tamaño reducido: alrededor de 2 MB de tamaño de archivo jar 
+* [Redis](https://redis.io/): Redis es un almacén de estructura de datos en memoria de código abierto (licencia BSD), que se utiliza como base de datos, caché y agente de mensajes. Redis proporciona estructuras de datos como cadenas, hashes, listas, conjuntos, conjuntos ordenados con consultas de rango, mapas de bits, hiperloglogs, índices geoespaciales y flujos. 
+
 ## Servicios de Almacenamiento
 
 * [https://imgur.com/](https://imgur.com/): Imgur es un sitio web para alojar imágenes en línea.
