@@ -48,7 +48,14 @@ Aplicación de consola basada en navegador - Tamaño reducido: alrededor de 2 MB
 
 ## JavaScript
 
+* [Datatables](https://datatables.net/): Agregar controles de interacción avanzados
+a sus tablas HTML de forma fácil y gratuita 
+
 * [SweetAlert2](https://sweetalert2.github.io/): Un remplazo *Hermoso*, *Responsive*, *Personalizable*, *Accesible* que reemplaza los PopUp Standard de JavaScript.
+
+## Plantillas Bootrap Free
+
+* [Start Bootstrap](https://startbootstrap.com/): ¡Bootstrap temas, plantillas y herramientas de interfaz de usuario para ayudarlo a comenzar su próximo proyecto!
 
 ## Servicios de Almacenamiento
 
