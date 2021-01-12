@@ -9,6 +9,27 @@ Lista de Recursos para el uso dentro del Desarrollo Web, Mobile o BackeEnd
 
 * [Swagger Petstore](https://petstore.swagger.io/): Este es un servidor de muestra del servidor Petstore. Puede encontrar más información sobre Swagger en http://swagger.io o en irc.freenode.net, #swagger. Para esta muestra, puede usar la clave especial `special-key` para probar los filtros de autorización. 
 
+
+Direcciones de servicios REST
+
+* Obtención de la dirección IP: http://ip.jsontest.com/
+* Servicio INE población de España, total, por sexos y edades: https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/9663?date=
+* Calidad del aire Comunidad de Madrid:
+https://datos.comunidad.madrid/catalogo/dataset/cb5b856f-71a4-4e34-8539-84a7e994c972/resource/c9e3248b-9aac-4771-9935-749354ba0db2/download/calidad_aire_datos_dia.json
+* Datos Covid mundial:
+https://opendata.ecdc.europa.eu/covid19/casedistribution/json/
+* Datos covid Madrid por municipios y zonas de Salud desde 2-7-2020:
+https://datos.comunidad.madrid/catalogo/dataset/7da43feb-8d4d-47e0-abd5-3d022d29d09e/resource/877fa8f5-cd6c-4e44-9df5-0fb60944a841/download/covid19_tia_muni_y_distritos_s.json
+* Listado de datos de todos los paises del mundo:
+https://restcountries.eu/rest/v2/all
+* Fecha y hora UTC:
+http://date.jsontest.com/
+* APIS varias información COVID:
+https://rapidapi.com/collection/coronavirus-covid-19
+* Google APIs:
+https://console.developers.google.com/apis/library?project=adept-portal-239108
+
+
 ## Avatars
 
 * [Gravatar](https://es.gravatar.com/): Gravatar es un servicio gratuito para propietarios, desarrolladores y usuarios de sitios. Un Gravatar es un Avatar reconocido a nivel mundial. Usted carga una imagen y crea su perfil público solo una vez, y luego, cuando participa en cualquier sitio habilitado para Gravatar, su imagen de Gravatar y su perfil público lo seguirán automáticamente allí.
