@@ -2,6 +2,12 @@
 Lista de Recursos para el uso dentro del Desarrollo Web, Mobile o BackeEnd
 
 ## APIS Públicos
+* [Coupon API](https://linkmydeals.com/api-documentation/?gclid=Cj0KCQiA0fr_BRDaARIsAABw4Eu_XKKXNLh1rI99YhAh96ncOqylVN6y3-h3z_jBIFioH4A_4tKmALMaAs4gEALw_wcB)
+* [Abenity](https://abenity.com/developers/api): Integre su aplicación con Abenity utilizando nuestros recursos para desarrolladores
+https://abenity.com/developers/api/members
+https://abenity.com/developers/api/perks
+
+
 
 * [IMBD](https://www.imdb.com/): IMDb: calificaciones, reseñas y dónde ver las mejores películas ...
 * [IMBD API](https://rapidapi.com/blog/lp/imdb-api/?utm_source=google&utm_medium=cpc&utm_campaign=Alpha&utm_term=imdb%20api_e&gclid=Cj0KCQiA0MD_BRCTARIsADXoopYkz5EkRldpbC7MxUL0kdd9vLfx59FMGm_Io7lbwyVozQ58Ijjy2osaAuWMEALw_wcB): IMDB API: REST API FOR DEVELOPERS
