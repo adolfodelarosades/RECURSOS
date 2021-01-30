@@ -57,6 +57,8 @@ Aplicación de consola basada en navegador - Tamaño reducido: alrededor de 2 MB
 * [Datatables](https://datatables.net/): Agregar controles de interacción avanzados
 a sus tablas HTML de forma fácil y gratuita 
 
+* [Sencha](https://www.sencha.com/): El Grid de JavaScript más rápida. Además de más de 140 componentes de interfaz de usuario de alto rendimiento para crear aplicaciones impresionantes
+
 * [SweetAlert2](https://sweetalert2.github.io/): Un remplazo *Hermoso*, *Responsive*, *Personalizable*, *Accesible* que reemplaza los PopUp Standard de JavaScript.
 
 ## Plantillas Bootrap Free
