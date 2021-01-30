@@ -7,14 +7,11 @@ Lista de Recursos para el uso dentro del Desarrollo Web, Mobile o BackeEnd
 https://abenity.com/developers/api/members
 https://abenity.com/developers/api/perks
 
-
-
 * [IMBD](https://www.imdb.com/): IMDb: calificaciones, reseñas y dónde ver las mejores películas ...
 * [IMBD API](https://rapidapi.com/blog/lp/imdb-api/?utm_source=google&utm_medium=cpc&utm_campaign=Alpha&utm_term=imdb%20api_e&gclid=Cj0KCQiA0MD_BRCTARIsADXoopYkz5EkRldpbC7MxUL0kdd9vLfx59FMGm_Io7lbwyVozQ58Ijjy2osaAuWMEALw_wcB): IMDB API: REST API FOR DEVELOPERS
 * [MOCKAROO](https://www.mockaroo.com/): ¿Necesita datos simulados para probar su aplicación? Mockaroo le permite generar hasta 1,000 filas de datos de prueba realistas en formatos CSV, JSON, SQL y Excel. Descargue datos usando su navegador o inicie sesión y cree sus propias API simuladas.
 
 * [Swagger Petstore](https://petstore.swagger.io/): Este es un servidor de muestra del servidor Petstore. Puede encontrar más información sobre Swagger en http://swagger.io o en irc.freenode.net, #swagger. Para esta muestra, puede usar la clave especial `special-key` para probar los filtros de autorización. 
-
 
 Direcciones de servicios REST
 
@@ -35,7 +32,6 @@ https://rapidapi.com/collection/coronavirus-covid-19
 * Google APIs:
 https://console.developers.google.com/apis/library?project=adept-portal-239108
 
-
 ## Avatars
 
 * [Gravatar](https://es.gravatar.com/): Gravatar es un servicio gratuito para propietarios, desarrolladores y usuarios de sitios. Un Gravatar es un Avatar reconocido a nivel mundial. Usted carga una imagen y crea su perfil público solo una vez, y luego, cuando participa en cualquier sitio habilitado para Gravatar, su imagen de Gravatar y su perfil público lo seguirán automáticamente allí.
@@ -51,6 +47,13 @@ https://console.developers.google.com/apis/library?project=adept-portal-239108
 * [H2](https://www.h2database.com/html/main.html): Bienvenido a H2, la base de datos SQL de Java. Las principales características de H2 son: API JDBC de código abierto muy rápido - Modos integrados y de servidor; bases de datos en memoria -
 Aplicación de consola basada en navegador - Tamaño reducido: alrededor de 2 MB de tamaño de archivo jar 
 * [Redis](https://redis.io/): Redis es un almacén de estructura de datos en memoria de código abierto (licencia BSD), que se utiliza como base de datos, caché y agente de mensajes. Redis proporciona estructuras de datos como cadenas, hashes, listas, conjuntos, conjuntos ordenados con consultas de rango, mapas de bits, hiperloglogs, índices geoespaciales y flujos. 
+
+## GIT
+
+* [Git Documentation Official](https://git-scm.com/doc)
+
+* [Git Atlassian](https://www.atlassian.com/git/tutorials): Volverse
+un gurú git.
 
 ## JavaScript
 
