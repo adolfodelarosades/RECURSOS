@@ -55,6 +55,10 @@ Aplicación de consola basada en navegador - Tamaño reducido: alrededor de 2 MB
 * [Git Atlassian](https://www.atlassian.com/git/tutorials): Volverse
 un gurú git.
 
+## GIT-Eclipse
+
+* [EGit/User Guide](https://wiki.eclipse.org/EGit/User_Guide): Documentación Oficial
+
 ## JavaScript
 
 * [Datatables](https://datatables.net/): Agregar controles de interacción avanzados
