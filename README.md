@@ -48,6 +48,10 @@ https://console.developers.google.com/apis/library?project=adept-portal-239108
 Aplicación de consola basada en navegador - Tamaño reducido: alrededor de 2 MB de tamaño de archivo jar 
 * [Redis](https://redis.io/): Redis es un almacén de estructura de datos en memoria de código abierto (licencia BSD), que se utiliza como base de datos, caché y agente de mensajes. Redis proporciona estructuras de datos como cadenas, hashes, listas, conjuntos, conjuntos ordenados con consultas de rango, mapas de bits, hiperloglogs, índices geoespaciales y flujos. 
 
+## CSS
+
+* [Comprimir/Descomprimir CSS](https://herramientas-online.com/comprimir-descomprimir-css.html)
+
 ## GIT
 
 * [Git Documentation Official](https://git-scm.com/doc)
