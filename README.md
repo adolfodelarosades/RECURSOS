@@ -79,3 +79,7 @@ a sus tablas HTML de forma fácil y gratuita
 ## Servicios de Almacenamiento
 
 * [https://imgur.com/](https://imgur.com/): Imgur es un sitio web para alojar imágenes en línea.
+
+# RECURSOS NO TECNICOS
+
+## [DICHOS o REFRANES Compendio Temático](http://scifunam.fisica.unam.mx/mir/copit/CD0006ES/CD0006ES.pdf)
