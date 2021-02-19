@@ -82,4 +82,6 @@ a sus tablas HTML de forma fácil y gratuita
 
 # RECURSOS NO TECNICOS
 
-## [DICHOS o REFRANES Compendio Temático](http://scifunam.fisica.unam.mx/mir/copit/CD0006ES/CD0006ES.pdf)
+## Dichos o Refranes
+
+* [DICHOS o REFRANES Compendio Temático](http://scifunam.fisica.unam.mx/mir/copit/CD0006ES/CD0006ES.pdf)
