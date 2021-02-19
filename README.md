@@ -88,3 +88,4 @@ a sus tablas HTML de forma fácil y gratuita
 * [EL REFRANERO MEXICANO Y LA ACTUALIDAD](https://cvc.cervantes.es/ensenanza/biblioteca_ele/aepe/pdf/congreso_47/congreso_47_26.pdf)
 * [Uso de refranes y dichos populares en el pueblo serrano de Tapalpa (México)](https://cvc.cervantes.es/lengua/paremia/pdf/015/011_perez.pdf)
 * [REFRANES Y DICHOS POPULARES](https://www.folkloretradiciones.com.ar/literatura/Refranes%20y%20dichos%20populares.pdf)
+* [En Pos del Texto](https://www.researchgate.net/profile/Evangelina-Tapia/publication/325857580_Los_dichos_y_refranes_como_estrategia_para_el_estudio_de_la_corrupcioncompressed/links/5b2959080f7e9b1d0035ea93/Los-dichos-y-refranes-como-estrategia-para-el-estudio-de-la-corrupcioncompressed.pdf)
