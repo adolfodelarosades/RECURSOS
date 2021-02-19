@@ -89,3 +89,4 @@ a sus tablas HTML de forma fácil y gratuita
 * [Uso de refranes y dichos populares en el pueblo serrano de Tapalpa (México)](https://cvc.cervantes.es/lengua/paremia/pdf/015/011_perez.pdf)
 * [REFRANES Y DICHOS POPULARES](https://www.folkloretradiciones.com.ar/literatura/Refranes%20y%20dichos%20populares.pdf)
 * [En Pos del Texto](https://www.researchgate.net/profile/Evangelina-Tapia/publication/325857580_Los_dichos_y_refranes_como_estrategia_para_el_estudio_de_la_corrupcioncompressed/links/5b2959080f7e9b1d0035ea93/Los-dichos-y-refranes-como-estrategia-para-el-estudio-de-la-corrupcioncompressed.pdf)
+* [TESIS](http://bdigital.dgse.uaa.mx:8080/xmlui/bitstream/handle/11317/861/350661.pdf?sequence=1&isAllowed=y)
