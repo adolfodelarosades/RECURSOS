@@ -85,3 +85,6 @@ a sus tablas HTML de forma fácil y gratuita
 ## Dichos o Refranes
 
 * [DICHOS o REFRANES Compendio Temático](http://scifunam.fisica.unam.mx/mir/copit/CD0006ES/CD0006ES.pdf)
+* [EL REFRANERO MEXICANO Y LA ACTUALIDAD](https://cvc.cervantes.es/ensenanza/biblioteca_ele/aepe/pdf/congreso_47/congreso_47_26.pdf)
+* [Uso de refranes y dichos populares en el pueblo serrano de Tapalpa (México)](https://cvc.cervantes.es/lengua/paremia/pdf/015/011_perez.pdf)
+* [REFRANES Y DICHOS POPULARES](https://www.folkloretradiciones.com.ar/literatura/Refranes%20y%20dichos%20populares.pdf)
