@@ -76,6 +76,11 @@ a sus tablas HTML de forma fácil y gratuita
 
 * [SweetAlert2](https://sweetalert2.github.io/): Un remplazo *Hermoso*, *Responsive*, *Personalizable*, *Accesible* que reemplaza los PopUp Standard de JavaScript.
 
+## JSON
+
+* 7 Solución de alojamiento JSON confiable para su aplicación moderna: https://geekflare.com/es/best-json-hosting/
+* [JSONBIN](https://jsonbin.io/)
+
 ## Plantillas Bootrap Free
 
 * [Start Bootstrap](https://startbootstrap.com/): ¡Bootstrap temas, plantillas y herramientas de interfaz de usuario para ayudarlo a comenzar su próximo proyecto!
