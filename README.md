@@ -76,6 +76,12 @@ a sus tablas HTML de forma fácil y gratuita
 
 * [SweetAlert2](https://sweetalert2.github.io/): Un remplazo *Hermoso*, *Responsive*, *Personalizable*, *Accesible* que reemplaza los PopUp Standard de JavaScript.
 
+### Tutoriales Ext JS
+
+* [Ext JS Tutorials](https://www.extjs-tutorial.com/)
+* [Ext JS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/extjs/)
+* [Ext JS Tutorial - JavaPoint](https://www.javatpoint.com/ext-js)
+
 ## JSON
 
 * 7 Solución de alojamiento JSON confiable para su aplicación moderna: https://geekflare.com/es/best-json-hosting/
