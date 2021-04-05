@@ -82,6 +82,11 @@ a sus tablas HTML de forma fácil y gratuita
 * [Ext JS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/extjs/)
 * [Ext JS Tutorial - JavaPoint](https://www.javatpoint.com/ext-js)
 
+### Frameworks JS
+
+* [ExtJS](https://www.sencha.com/products/extjs/)
+* [SyncFusion](https://www.syncfusion.com/)
+
 ## JSON
 
 * 7 Solución de alojamiento JSON confiable para su aplicación moderna: https://geekflare.com/es/best-json-hosting/
