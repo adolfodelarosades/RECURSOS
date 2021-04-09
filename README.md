@@ -96,6 +96,10 @@ a sus tablas HTML de forma fácil y gratuita
 
 * [Start Bootstrap](https://startbootstrap.com/): ¡Bootstrap temas, plantillas y herramientas de interfaz de usuario para ayudarlo a comenzar su próximo proyecto!
 
+## Plataformas Educativas
+
+* [Educative](https://www.educative.io/)
+
 ## Servicios de Almacenamiento
 
 * [https://imgur.com/](https://imgur.com/): Imgur es un sitio web para alojar imágenes en línea.
