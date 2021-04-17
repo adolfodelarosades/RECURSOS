@@ -82,6 +82,8 @@ a sus tablas HTML de forma fácil y gratuita
 * [Ext JS Tutorial - TutorialsPoint](https://www.tutorialspoint.com/extjs/)
 * [Ext JS Tutorial - JavaPoint](https://www.javatpoint.com/ext-js)
 * [Ext JS Tutorial - Java2s](http://www.java2s.com/Code/JavaScript/Ext-JS/CatalogExt-JS.htm)
+* [Ext JS integrado con Java](https://www.mentoringit.com.mx/tutoriales/java-intermedio/116/llenar-datos-en-un-grid-utilizando-ext-js-en-java.html)
+
 
 ### Frameworks JS
 
