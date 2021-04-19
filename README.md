@@ -76,6 +76,10 @@ a sus tablas HTML de forma fácil y gratuita
 
 * [SweetAlert2](https://sweetalert2.github.io/): Un remplazo *Hermoso*, *Responsive*, *Personalizable*, *Accesible* que reemplaza los PopUp Standard de JavaScript.
 
+## Librerías JavaScript CDN
+
+* [CDNJS](https://cdnjs.com/)
+
 ### Tutoriales Ext JS
 
 * [Ext JS Libreria CDN](https://cdnjs.com/libraries/extjs)
