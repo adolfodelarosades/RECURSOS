@@ -109,6 +109,12 @@ a sus tablas HTML de forma fácil y gratuita
 
 * [Educative](https://www.educative.io/)
 
+## Plataformas de Videos
+
+* [Brightcove](https://www.brightcove.com/es/)
+* [Vimeo](https://vimeo.com/es)
+* [Wistia](https://wistia.com/)
+
 ## Servicios de Almacenamiento
 
 * [https://imgur.com/](https://imgur.com/): Imgur es un sitio web para alojar imágenes en línea.
